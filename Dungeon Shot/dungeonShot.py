@@ -1,6 +1,6 @@
 '''
 Abdulrehman Nakhuda
-2022-01-18
+2023-01-18
 Description: This game is about where you control a bullet a hit the targets to get score and also to survive.
 it also has coins to boost your score and also a powerup that slows down time for a limited time.
 The user is controlled by holding the space bar.
